@@ -39,7 +39,7 @@ body {
     background: white;
     margin: 1% 0;
     color: black;
-    border: 3px solid #000000;
+    border: 3px solid #c5b4a4;
     border-radius: 5px;
     box-shadow: 2px 2px 1px 0px #000000;
     max-width: 240px;
@@ -63,7 +63,7 @@ body {
 }
 
 .calculator .accent{
-   background: #f3fff3;  background: #f3fff3;;
+   background: #523d2d;  background: #523d2d;;
 }
 
 .calculator .space {
@@ -82,7 +82,7 @@ body {
 
 .calculator button:hover,
 #backspace:hover {
-  background: #f3fff3;
+  background: #523d2d;
   color:#000000;
   transform: scale(0.9);
   border-radius: 20%;
